@@ -6,7 +6,7 @@ python based donttap bot
 1. Setup
 
 Install Python 3.7.3 (32bit), you don't have to install the same version, this is just recommended version.
-From: https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
+From: https://www.python.org/ftp/python/3.7.3/
 While installing process click 'Add Python to PATH'.
 Then paste these in your CMD:
 
