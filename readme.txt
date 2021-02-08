@@ -36,7 +36,7 @@ Look down there if you have some issues with your code:
 
 This is a bit tricky one so listen carefully..
 
-Open CMD as ADMINISTRATOR.
+Open CMD as an ADMINISTRATOR.
 Type %localappdata% to your find pole left down.
 Then go to 'Programs > Python > [whatever python versor you're using] > Scripts' now, copy the location.
 Go back to CMD and type 'cd [your location]'.
