@@ -7,5 +7,6 @@ pip install opencv-python
 
 ECHO.
 ECHO.
+ECHO.
 ECHO Setup complete!
 pause
