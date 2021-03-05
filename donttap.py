@@ -1,9 +1,9 @@
 from pyautogui import *
 import pyautogui
 import random
+import time
 import keyboard
 import win32api, win32con
-import time
 
 def click(x,y):
     win32api.SetCursorPos((x,y))
