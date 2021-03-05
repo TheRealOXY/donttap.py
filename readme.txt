@@ -1,3 +1,5 @@
+v1.1
+
 donttap.py
 python based donttap bot
 
@@ -8,19 +10,14 @@ python based donttap bot
 Install Python 3.7.3 (32bit), you don't have to install the same version, this is just recommended version.
 From: https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
 While installing process click 'Add Python to PATH'.
-Then paste these in your CMD:
 
-pip install pywin32
-pip install keyboard
-pip install pyautogui
-pip install opencv-python
+Then run setup.py
 
 ###
 
 2. Run
 
-Right-click on donttap.py and hit 'Edit with IDLE'.
-You will see some code, hit F5 on your keyboard.
+Right-click on donttap.py and hit 'Run with Python (the rocket icon one)'.
 That's it.
 
 BTW! You can stop the code with 'X' key. (It's glitchy sometimes)
@@ -36,7 +33,7 @@ Look down there if you have some issues with your code:
 
 This is a bit tricky one so listen carefully..
 
-Open CMD as an ADMINISTRATOR.
+Open CMD as ADMINISTRATOR.
 Type %localappdata% to your find pole left down.
 Then go to 'Programs > Python > [whatever python versor you're using] > Scripts' now, copy the location.
 Go back to CMD and type 'cd [your location]'.
