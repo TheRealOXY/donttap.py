@@ -3,7 +3,7 @@ v1.1
 donttap.py
 python based donttap bot
 
-##
+###
 
 1. Setup
 
@@ -13,7 +13,7 @@ While installing process click 'Add Python to PATH'.
 
 Then run setup.py
 
-##
+###
 
 2. Run
 
@@ -22,7 +22,7 @@ That's it.
 
 BTW! You can stop the code with 'X' key. (It's glitchy sometimes)
 
-##
+###
 
 3. ISSUES
 

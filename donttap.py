@@ -1,9 +1,10 @@
 from pyautogui import *
 import pyautogui
 import random
-import time
 import keyboard
 import win32api, win32con
+import time
+
 
 def click(x,y):
     win32api.SetCursorPos((x,y))
@@ -11,8 +12,10 @@ def click(x,y):
     time.sleep(0.01)
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP,0,0)
 
+print("Program running!")
+
 while keyboard.is_pressed('x') == False:
-    
+
     if pyautogui.pixel(720, 314)[0] == 0:
         click(720, 314)
         time.sleep(0.01)
@@ -77,3 +80,7 @@ while keyboard.is_pressed('x') == False:
         click(1191, 798)
         time.sleep(0.01)
         print("Tile clicked!")
+
+while keyboard.is_pressed('x'):
+    print("Program stopped!")
+    time.sleep(10)
