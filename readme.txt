@@ -1,4 +1,10 @@
-v1.1
+v1.1.5
+
+
+### UPDATES
+Added setup Debug feature
+
+
 
 donttap.py
 python based donttap bot
@@ -18,6 +24,7 @@ Then run setup.py
 2. Run
 
 Right-click on donttap.py and hit 'Run with Python (the rocket icon one)'.
+TIP: This may be broken, still fixing this. So rather click 'Edit with IDLE 3.7 (32-bit)' then hit F5.
 That's it.
 
 BTW! You can stop the code with 'X' key. (It's glitchy sometimes)
