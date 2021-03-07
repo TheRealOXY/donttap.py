@@ -1,11 +1,9 @@
-v1.1.1
+v1.1.2
 
-![alt text](https://repository-images.githubusercontent.com/336777729/d19c9e80-694e-11eb-8a78-6164d16f6dbf "Hi there 👋")
+![Hi there 👋](https://repository-images.githubusercontent.com/336777729/d19c9e80-694e-11eb-8a78-6164d16f6dbf)
 
 ### UPDATES
-Added setup Debug feature
-
-
+Added forceStop
 
 donttap.py
 python based donttap bot
@@ -13,7 +11,7 @@ python based donttap bot
 ### 1. Setup
 
 Install Python 3.7.3 (32bit), you don't have to install the same version, this is just recommended version.
-From: https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe (WARNING: AUTO DOWNLOAD)
+From: https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
 While installing process click 'Add Python to PATH'.
 
 Then run setup.py

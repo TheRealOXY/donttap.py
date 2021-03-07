@@ -2,8 +2,8 @@ from pyautogui import *
 import pyautogui
 import random
 import keyboard
-import time
 import win32api, win32con
+import time
 
 
 def click(x,y):
