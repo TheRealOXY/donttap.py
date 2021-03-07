@@ -83,4 +83,4 @@ while keyboard.is_pressed('x') == False:
 
 while keyboard.is_pressed('x'):
     print("Program stopped!")
-    time.sleep(10)
+    time.sleep(11)
