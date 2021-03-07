@@ -1,8 +1,8 @@
+import time
 import tkinter as tk
 from tkinter import filedialog, Text
 from tkinter import *
 from tkinter.ttk import *
-import time
 import os
 
 root = tk.Tk()
