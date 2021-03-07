@@ -1,6 +1,6 @@
 v1.1.2
 
-https://repository-images.githubusercontent.com/336777729/d19c9e80-694e-11eb-8a78-6164d16f6dbf
+![Hi there 👋](https://repository-images.githubusercontent.com/336777729/d19c9e80-694e-11eb-8a78-6164d16f6dbf)
 
 ### UPDATES
 Added forceStop
