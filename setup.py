@@ -12,7 +12,6 @@ def setApp():
     os.system('pip install keyboard')
     os.system('pip install pyautogui')
     os.system('pip install opencv-python')
-                
 
 def closeApp():
     print('Setup canceled')
