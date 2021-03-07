@@ -1,24 +1,27 @@
-v1.1.1
+v1.1.2
 
-![alt text](https://repository-images.githubusercontent.com/336777729/d19c9e80-694e-11eb-8a78-6164d16f6dbf "Hi there 👋")
 
 ### UPDATES
-Added setup Debug feature
+Added forceStop
 
 
 
 donttap.py
 python based donttap bot
 
-### 1. Setup
+###
+
+1. Setup
 
 Install Python 3.7.3 (32bit), you don't have to install the same version, this is just recommended version.
-From: https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe (WARNING: AUTO DOWNLOAD)
+From: https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
 While installing process click 'Add Python to PATH'.
 
 Then run setup.py
 
-### 2. Run
+###
+
+2. Run
 
 Right-click on donttap.py and hit 'Run with Python (the rocket icon one)'.
 TIP: This may be broken, still fixing this. So rather click 'Edit with IDLE 3.7 (32-bit)' then hit F5.
@@ -26,7 +29,9 @@ That's it.
 
 BTW! You can stop the code with 'X' key. (It's glitchy sometimes)
 
-### 3. ISSUES
+###
+
+3. ISSUES
 
 Look down there if you have some issues with your code:
 
